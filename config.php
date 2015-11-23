@@ -14,4 +14,4 @@ $connection_options = array(
 // if you use MySQL, leave it as is
 // more information:
 // http://php.net/manual/en/pdo.construct.php
-$dbdsn = "mysql:host=$dbhost;dbname=$dbname";
+$dbdsn = "mysql:host=github;dbname=github";
